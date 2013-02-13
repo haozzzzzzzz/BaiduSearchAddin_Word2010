@@ -1,0 +1,13 @@
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\bin\Debug\WordSelectionSearch.dll
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\bin\Debug\WordSelectionSearch.pdb
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\bin\Debug\WordSelectionSearch.dll.manifest
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\bin\Debug\WordSelectionSearch.vsto
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\obj\Debug\ResolveAssemblyReference.cache
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\obj\Debug\WordSelectionSearch.Properties.Resources.resources
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\obj\Debug\WordSelectionSearch.WebbrowserPane.resources
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\obj\Debug\GenerateResource.read.1.tlog
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\obj\Debug\GenerateResource.write.1.tlog
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\obj\Debug\WordSelectionSearch.dll
+E:\VS2010\Office\WordSelectionSearch\WordSelectionSearch\obj\Debug\WordSelectionSearch.pdb
